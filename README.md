@@ -1,4 +1,5 @@
-# giacman.github.io
-My personal website
+# My Personal (Static) Website
 
-Created following instructions from: https://www.codecademy.com/learn/deploy-a-website
+[giacomovannucchi.me](giacomovannucchi.me)
+
+Using Jekyll as a static site generator with GitHub Pages.
