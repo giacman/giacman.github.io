@@ -21,3 +21,4 @@ github_username:  giacman
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
